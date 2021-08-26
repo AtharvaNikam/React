@@ -6,7 +6,7 @@
 
 ![Login](./src/images/Login.jpg)
 
-### Telegram Clone Home
+### Telegram Clone Home main
 
 ![Home](./src/images/Home.jpg)
 
